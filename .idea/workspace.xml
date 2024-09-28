@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb5bb79f-0001-4216-8d39-2e65e0c94842" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/startupnamegenerator.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/treasurehunter.js" beforeDir="false" afterPath="$PROJECT_DIR$/treasurehunter.js" afterDir="false" />
     </list>
@@ -47,6 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Node.js.index.js.executor": "Run",
+    "Node.js.startupnamegenerator.js.executor": "Run",
     "Node.js.treasurehunter.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -73,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727529650069</updated>
-      <workItem from="1727529652385" duration="7056000" />
+      <workItem from="1727529652385" duration="7995000" />
     </task>
     <servers />
   </component>
