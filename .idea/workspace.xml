@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb5bb79f-0001-4216-8d39-2e65e0c94842" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/startupnamegenerator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshots/ScreenshotOfSite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshots/ScreenshotSiteLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/treasurehunter.js" beforeDir="false" afterPath="$PROJECT_DIR$/treasurehunter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startupnamegenerator.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascriptopgaver/startupnamegenerator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studentgradeanalysis.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascriptopgaver/studentgradeanalysis.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/treasurehunter.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascriptopgaver/treasurehunter.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +25,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -47,11 +56,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "Node.js.index.js.executor": "Run",
     "Node.js.startupnamegenerator.js.executor": "Run",
     "Node.js.treasurehunter.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,6 +71,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Simon\WebstormProjects\Portefolio_2\Screenshots" />
+      <recent name="C:\Users\Simon\WebstormProjects\Portefolio_2\javascriptopgaver" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -75,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727529650069</updated>
-      <workItem from="1727529652385" duration="7995000" />
+      <workItem from="1727529652385" duration="18903000" />
     </task>
     <servers />
   </component>

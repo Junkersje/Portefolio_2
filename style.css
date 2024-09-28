@@ -1,0 +1,102 @@
+body {
+    margin: 0;
+}
+
+header{
+    display: grid;
+    grid-template-columns: 20% 60% 20%;
+    border-bottom: 1px solid grey;
+    justify-items: center;
+    align-items: center;
+    margin-top: -17px;
+}
+
+.search-field{
+    width: 80%;
+}
+
+.search-field button{
+    display: grid;
+    border-radius: 15px;
+    grid-template-columns: 15% 50% 35%;
+    background-color: lightgrey;
+    width: 100%;
+    align-items: center;
+    justify-items: flex-start;
+    border: none;
+
+}
+button svg{
+    padding: 6px;
+}
+
+#search{
+    padding-left: 6px;
+    color: #474747;
+    font-size: 20px;
+}
+
+#key{
+    opacity: 50%;
+}
+
+.page {
+    display: grid;
+    grid-template-columns: 25% 55% 20%;
+    height: 80vh;
+}
+
+.left-sidebar{
+    display: flex;
+    background-color: red;
+    justify-content: space-between;
+    flex-direction: column;
+    margin: 10px;
+}
+.left-sidebar ul{
+    background-color: yellow;
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.left-sidebar li{
+    background-color: green;
+    padding: 6px 6px 6px 6px;
+}
+
+.li-element {
+    color: grey;
+    padding: 6px 6px 6px 20px;
+    border-radius: 5px;
+}
+
+
+.li-element:hover {
+    color: #474747;
+    background-color: lightgrey;
+    padding: 6px 6px 6px 20px;
+    border-radius: 5px;
+}
+
+.main-page {
+    margin: 0 5% 0 10%;
+}
+
+.sidebar-foot {
+    position: fixed;
+    display: grid;
+    grid-template-columns: 20% 75%;
+    align-items: center;
+    margin: 10px 10px 10px 0;
+    bottom: 0;
+    width: 25%;
+    border-radius: 15px;
+    background-color: lightgrey;
+    padding: 5px 0 5px 5px;
+
+}
+
+.sidebar-foot a{
+    margin-left: 10px;
+
+}
